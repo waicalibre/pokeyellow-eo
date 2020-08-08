@@ -1,34 +1,29 @@
 # Pokémon Yellow
 
-This is a disassembly of Pokémon Yellow.
+This is an in-progress Esperanto translation of Pokémon Yellow, forked from [pret's disassembly][original].
 
-It builds the following rom:
+It builds the following ROM:
 
-* Pokemon Yellow (UE) [C][!].gbc  `md5: d9290db87b1f0a23b89f99ee4469e34b`
+- Pokemon Yellow (UE) (Eo).gbc `sha256: TBA`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 
 ## See also
 
-* Disassembly of [**Pokémon Red/Blue**][pokered]
-* Disassembly of [**Pokémon Gold**][pokegold]
-* Disassembly of [**Pokémon Crystal**][pokecrystal]
-* Disassembly of [**Pokémon Pinball**][pokepinball]
-* Disassembly of [**Pokémon TCG**][poketcg]
-* Disassembly of [**Pokémon Ruby**][pokeruby]
-* Disassembly of [**Pokémon Fire Red**][pokefirered]
-* Disassembly of [**Pokémon Emerald**][pokeemerald]
-* Discord: [**pret**][Discord]
-* irc: **irc.freenode.net** [**#pret**][irc]
+Other Pokémon Esperanto translation projects:
 
-[pokered]: https://github.com/pret/pokered
-[pokegold]: https://github.com/pret/pokegold
-[pokecrystal]: https://github.com/pret/pokecrystal
-[pokepinball]: https://github.com/pret/pokepinball
-[poketcg]: https://github.com/pret/poketcg
-[pokeruby]: https://github.com/pret/pokeruby
-[pokefirered]: https://github.com/pret/pokefirered
-[pokeemerald]: https://github.com/pret/pokeemerald
-[Discord]: https://discord.gg/d5dubZ3
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
+- [**Pokémon Red/Blue**][pokered]
+- [**Pokémon Gold/Silver**][pokegold]
+- [**Pokémon Crystal**][pokecrystal]
+- [**Pokémon Ruby/Sapphire**][pokeruby]
+- [**Pokémon FireRed/LeafGreen**][pokefirered]
+- [**Pokémon Emerald**][pokeemerald]
+
+[pokered]: https://github.com/waicalibre/pokered-eo
+[original]: https://github.com/pret/pokeyellow
+[pokegold]: https://github.com/waicalibre/pokegold-eo
+[pokecrystal]: https://github.com/waicalibre/pokecrystal-eo
+[pokeruby]: https://github.com/waicalibre/pokeruby-eo
+[pokefirered]: https://github.com/waicalibre/pokefirered-eo
+[pokeemerald]: https://github.com/waicalibre/pokeemerald-eo
